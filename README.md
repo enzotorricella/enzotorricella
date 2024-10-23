@@ -45,4 +45,8 @@
 </div>
 
 ## Sobre mí 
-- 👨‍💻 Desarrollador de software
+Soy enzo  tengo actualmente tengo 28 años, me interesa todo lo relacionado con programacion y tecnologia y hardware electronico.
+me considero un jr autodidacta, busco aprender tanto por mi cuenta y con formacion academica.actuamente estudio en BYU PATHWAY WORLDWIDE/Ensig College a su vez en argentina me gradue como tecnico en programacion.
+
+Trabaje en soporte tecnico mientras  estudiaba cosa que hiso que me guste la seguridad informatica  y la resolucion de problemas de protocolos, redes firewalls etc
+estoy actualmente estudiando para dedicarme a la seguridad informatica.
