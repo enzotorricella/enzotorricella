@@ -9,8 +9,8 @@
 <table>
   <tr>
     <td>
-      <a href="" target="_blank">
-        <img src=" width="200" alt="Proyecto 1">
+      <a href="https://github.com/enzotorricella/Proyecto_Menu_Pago_Pedidos" target="_blank">
+        <img src=" width="200" alt="Menu burgerking">
       </a>
       <p align="center">
 <strong>Menu intereactivo para ordenar comidas y ver el estado del pedido</strong>
