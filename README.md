@@ -10,7 +10,7 @@
   <tr>
     <td>
       <a href="https://github.com/enzotorricella/Proyecto_Menu_Pago_Pedidos" target="_blank">
-        <img src="https://github.com/enzotorricella/enzo.github.io/blob/main/Proyecto_Menu_Comandera/IMG/backgrounds/4486959.jpg?raw=true" width="200" alt="Menu burgerking">
+        <img src="https://github.com/enzotorricella/enzo.github.io/blob/main/Proyecto_Menu_Comandera/IMG/backgrounds/4486959.jpg?raw=true" width="350" alt="Menu burgerking">
       </a>
       <p align="center">
 <strong>Menu intereactivo para ordenar comidas y ver el estado del pedido</strong>
@@ -20,8 +20,8 @@
 </p>
     </td>
     <td>
-      <a href="(https://github.com/enzotorricella/enzo.github.io/tree/main/Proyecto_Ecommers)" target="_blank">
-        <img src="[URL_DE_LA_IMAGEN_2](https://github.com/enzotorricella/enzo.github.io/blob/main/assets/img/brazas.png?raw=true)" width="200" alt="Proyecto 2">
+      <a href="https://github.com/enzotorricella/enzo.github.io/tree/main/Proyecto_Ecommers" target="_blank">
+        <img src="https://github.com/enzotorricella/enzo.github.io/blob/main/assets/img/brazas.png?raw=true" width="350" alt="Proyecto 2">
       </a>
       <p align="center">Ecommerce tienda on-line</p>
 <p> Construido con Boostrap, API Mercadopago.
@@ -29,13 +29,13 @@
     </td>
     <td>
       <a href="URL_DEL_PROYECTO_3" target="_blank">
-        <img src="URL_DE_LA_IMAGEN_3" width="200" alt="Proyecto 3">
+        <img src="URL_DE_LA_IMAGEN_3" width="350" alt="Proyecto 3">
       </a>
       <p align="center">Webscraper/Comparador de precios mas GUI</p>
     </td>
     <td>
       <a href="URL_DEL_PROYECTO_4" target="_blank">
-        <img src="URL_DE_LA_IMAGEN_4" width="200" alt="Proyecto 4">
+        <img src="URL_DE_LA_IMAGEN_4" width="350" alt="Proyecto 4">
       </a>
       <p align="center">Portal de balance financiero</p>
     </td>
