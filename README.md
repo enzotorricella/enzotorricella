@@ -20,8 +20,8 @@
 </p>
     </td>
     <td>
-      <a href="URL_DEL_PROYECTO_2" target="_blank">
-        <img src="URL_DE_LA_IMAGEN_2" width="200" alt="Proyecto 2">
+      <a href="(https://github.com/enzotorricella/enzo.github.io/tree/main/Proyecto_Ecommers)" target="_blank">
+        <img src="[URL_DE_LA_IMAGEN_2](https://github.com/enzotorricella/enzo.github.io/blob/main/assets/img/brazas.png?raw=true)" width="200" alt="Proyecto 2">
       </a>
       <p align="center">Ecommerce tienda on-line</p>
 <p> Construido con Boostrap, API Mercadopago.
