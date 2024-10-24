@@ -10,8 +10,7 @@
   <tr>
     <td>
       <a href="https://github.com/enzotorricella/Proyecto_Menu_Pago_Pedidos" target="_blank">
-        <img src="![Uploading image.png…]()
-" width="200" alt="Menu burgerking">
+        <img src="https://github.com/enzotorricella/enzo.github.io/blob/main/Proyecto_Menu_Comandera/IMG/backgrounds/4486959.jpg?raw=true" width="200" alt="Menu burgerking">
       </a>
       <p align="center">
 <strong>Menu intereactivo para ordenar comidas y ver el estado del pedido</strong>
