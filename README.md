@@ -12,11 +12,6 @@
     <a href="mailto:enzo.torricella25@gmail.com"><img src="https://img.shields.io/badge/Contáctame-BD93F9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   </p>
 </div>
-
----
-
-### ## 🛠️ Stack Tecnológico
-
 <p align="center">
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="#"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
@@ -79,10 +74,6 @@
 <p>
   Actualmente, estoy enfocado en perfeccionar mis habilidades en <b>desarrollo backend</b>, construyendo aplicaciones eficientes y escalables, con la meta de especializarme en el fascinante campo de la seguridad informática. ¡Siempre estoy aprendiendo y buscando nuevos desafíos!
 </p>
-
----
-
-### ## 📊 Mis Estadísticas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzotorricella&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Enzo"/>
