@@ -76,7 +76,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzotorricella&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Enzo"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzotorricella&layout=compact&langs_count=8&theme=vue-dark" alt="Lenguajes más usados por Enzo"/>
 </p>
