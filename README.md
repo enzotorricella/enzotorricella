@@ -4,8 +4,7 @@
 
   <h1>Hola, soy Enzo Torricella 👋</h1>
 
-  <p>Desarrollador Backend apasionado por la tecnología y la seguridad informática.<br/>Creando soluciones de software robustas, seguras y escalables.</p>
-
+  <p>Desarrollador de Software,Me gusta la tecnología y la seguridad informática.</p>
   <p>
     <a href="https://www.linkedin.com/in/enzo-torricella/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="https://enzotorricella.github.io/enzo.github.io/#about"><img src="https://img.shields.io/badge/Portfolio-FF79C6?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>
@@ -38,7 +37,7 @@
 <td width="50%" valign="top">
   <h3>Menú Interactivo y Gestor de Pedidos</h3>
   <p>Aplicación web que moderniza la experiencia en restaurantes, permitiendo a los clientes ordenar desde su mesa y al personal gestionar los pedidos en tiempo real a través de un panel de control dinámico.</p>
-  <p><b>Tecnologías:</b> HTML, CSS, JavaScript (Vanilla).</p>
+  <p><b>Tecnologías:</b> HTML, CSS, JavaScript.</p>
   <p>
     <a href="https://github.com/enzotorricella/Proyecto_Menu_Pago_Pedidos" target="_blank"><b>Ver el código →</b></a>
     </p>
@@ -55,8 +54,8 @@
 </td>
 <td width="50%" valign="top">
   <h3>E-commerce con Pasarela de Pago</h3>
-  <p>Tienda online para un restaurante, diseñada para facilitar la venta de productos con un carrito de compras y una integración segura con la API de Mercado Pago para procesar pagos de forma nativa.</p>
-  <p><b>Tecnologías:</b> Bootstrap, JavaScript, API de Mercado Pago.</p>
+  <p>Tienda online para un restaurante, diseñada con un carrito de compras y link de Mercado Pago para procesar pagos de forma directa.</p>
+  <p><b>Tecnologías:</b> Bootstrap, JavaScript, Mercado Pago.</p>
   <p>
     <a href="https://github.com/enzotorricella/enzo.github.io/tree/main/Proyecto_Ecommers" target="_blank"><b>Ver el código →</b></a>
   </p>
