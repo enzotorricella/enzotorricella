@@ -7,13 +7,13 @@
 
   <p>
     <a href="https://etorri.com.ar/">
-      <img src="https://img.shields.io/badge/Portfolio-etorri.com.ar-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-    <a href="https://www.linkedin.com/in/enzo-torricella/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ETorri-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="mailto:enzo.torricella25@gmail.com">
       <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/enzo-torricella/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </p>
 
