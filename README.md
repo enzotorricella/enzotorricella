@@ -6,7 +6,7 @@
   <p><b>.NET, SQL y aplicaciones para operacion real</b></p>
 
   <p>
-    <a href="https://etorri.com.ar/">
+    <a href="https://etorri.com.ar/u/github/">
       <img src="https://img.shields.io/badge/ETorri-f97316?style=for-the-badge&logo=google-chrome&logoColor=white"/>
     </a>
     <a href="mailto:enzo.torricella25@gmail.com">
