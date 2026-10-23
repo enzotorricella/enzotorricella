@@ -29,6 +29,15 @@ Mi experiencia abarca soporte postventa de software financiero, análisis de err
 | Soporte de aplicaciones | Troubleshooting, debugging, incidentes, Redmine, sistemas legacy |
 | Infraestructura / IT-OT | Git, Docker, VPS, redes, MikroTik, switches Aruba |
 
+## Laboratorios técnicos con código público
+
+Ejemplos **originales y ficticios**, creados específicamente para exhibir fundamentos sin divulgar código comercial:
+
+- [Incident Triage API — C# / ASP.NET Core](./labs/incident-triage-api/README.md): endpoints REST, validación y manejo de estados; prototipo en memoria.
+- [SQL Incident Analysis — SQLite](./labs/sql-incident-analysis/README.md): consultas de incidentes y cálculo de tiempos sobre datos sintéticos.
+
+Estos laboratorios no son componentes extraídos de Kardexa, EventChecking ni de SDI Software. No representan sistemas desplegados en producción.
+
 ## Proyectos de producto
 
 > Estos son productos de mi trayectoria. Sus repositorios completos no necesariamente son públicos; los enlaces se ofrecen como referencias de producto, no como acceso al código fuente.
