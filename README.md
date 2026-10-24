@@ -47,7 +47,7 @@ Registro, acreditacion y control de asistentes mediante QR.
 ### Kardexa
 
 POS liviano para ventas, stock y operacion diaria en comercios chicos.
-
+**Web:**https://kardexa.com.ar/
 **Stack:** .NET MAUI, Android, Windows, SQLite
 
 ### Talvo Dry
